@@ -1,0 +1,10 @@
+README.md
+setup.py
+IEEE_Research_Paper_Finder.egg-info/PKG-INFO
+IEEE_Research_Paper_Finder.egg-info/SOURCES.txt
+IEEE_Research_Paper_Finder.egg-info/dependency_links.txt
+IEEE_Research_Paper_Finder.egg-info/entry_points.txt
+IEEE_Research_Paper_Finder.egg-info/requires.txt
+IEEE_Research_Paper_Finder.egg-info/top_level.txt
+research_paper_finder/__init__.py
+research_paper_finder/finder.py
