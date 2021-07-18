@@ -1,13 +1,13 @@
-This is a command line tool which is used to gather system info and ipaddress and location of any user .
+This is a command line tool to extract research paper details along with their download links with the help of keywords . 
 
 # Contribution :- 
 The main project is in this github  repository 
-https://github.com/subhomoy-roy-choudhury/Hack_IP
+https://github.com/subhomoy-roy-choudhury/IEEE-Research-Paper-Finder-pip
 
 # Installation :-
 ```
- > pip install Hack_IP 
- > hackip
+ > pip install IEEE-Research-Paper-Finder 
+ > finder
 ```
 
 # LICENSE :- 

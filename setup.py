@@ -1,7 +1,7 @@
 from setuptools import setup
 import pathlib
 
-DESCRIPTION = "This is a tool to find research papers alongwith their download links"
+DESCRIPTION = "This is a command line tool to extract research paper details along with their download links with the help of keywords ."
 # The directory containing this file
 HERE = pathlib.Path(__file__).parent
 
@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Subhomoy Roy Choudhury",
     author_email = "subhomoyrchoudhury@gmail.com",
-    url="https://github.com/subhomoy-roy-choudhury/Hack_IP",
+    url="https://github.com/subhomoy-roy-choudhury/IEEE-Research-Paper-Finder-pip",
     license="MIT",
     classifiers=[
             "License :: OSI Approved :: MIT License",
