@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: IEEE-Research-Paper-Finder
-Version: 0.0.1
-Summary: This is a tool to find research papers alongwith their download links
-Home-page: https://github.com/subhomoy-roy-choudhury/Hack_IP
+Version: 0.0.2
+Summary: This is a command line tool to extract research paper details along with their download links with the help of keywords .
+Home-page: https://github.com/subhomoy-roy-choudhury/IEEE-Research-Paper-Finder-pip
 Author: Subhomoy Roy Choudhury
 Author-email: subhomoyrchoudhury@gmail.com
 License: MIT
@@ -13,28 +13,18 @@ Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Description-Content-Type: text/markdown
 
-This is a command line tool which is used to gather system info and ipaddress and location of any user .
+This is a command line tool to extract research paper details along with their download links with the help of keywords . 
 
 # Contribution :- 
 The main project is in this github  repository 
-https://github.com/subhomoy-roy-choudhury/Hack_IP
+https://github.com/subhomoy-roy-choudhury/IEEE-Research-Paper-Finder-pip
 
 # Installation :-
 ```
- > pip install Hack_IP 
- > hackip
+ > pip install IEEE-Research-Paper-Finder 
+ > finder
 ```
-# Usage :-
-1. Inorder to find location of any public IP Address . 
-```
-from hackip import hack_ip
-from requests import get
 
-ip = get('https://api.ipify.org').text
-print(ip)
-a = hack_ip()
-print(a.my_ip_location(ip))
-```
 # LICENSE :- 
 
 Copyright (c) 2018 The Python Packaging Authority
